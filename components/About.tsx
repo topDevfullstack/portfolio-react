@@ -12,9 +12,9 @@ export default function About() {
                         description="I create design  products with unique ideas."
                         projects={7} />
                     <AboutCard
-                        title="Web Design"
+                        title="Web Develop"
                         icon="/icons/code.svg"
-                        description="I develop Front-End with coding super smooth."
+                        description="I develop Front-End and Back-End with coding super smooth."
                         projects={10} />
                     <AboutCard
                         title="Mobile"
@@ -25,7 +25,7 @@ export default function About() {
                 
                 <div className="flex-full about-text">
                     <h5 className="gray">Introduce</h5>
-                    <h1 className="white">Hello, I&#39;m Skander Blaiti</h1>
+                    <h1 className="white">Hello, I&#39;m Kalvin Son</h1>
                     <h3 className="white">Design is not just what it looks like. Design is how it works!</h3>
                     <p className="gray">I have proceeded my dream to be a developer as it has been my lifelong ambition. I am a talented Front-End developer with a UI/UX design background. During my 4 years of work as a freelancer, I had the opportunity to enhance my expertise by collaborating with different companies and by creating useful content for both business and customer use.<br/><br/>
                     I am naturally persevered, self-confident, quietly curios, innovative and constantly challenging my skills.</p>
